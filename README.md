@@ -1,4 +1,4 @@
-# Mini Projects – Data Analysis / Mini Projetos – Análise de Dados
+# Small Projects – Data Analysis / Small Projetos – Análise de Dados
 
 ## 🌍 English
 This repository was created to store **small data analysis projects** that I developed to practice and improve my skills in **data processing, visualization, and interpretation**.  
